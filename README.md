@@ -30,7 +30,7 @@ This Java project demonstrates how to consume a public REST API to fetch **real-
 
 ---
 
-## 🔧 How to Run
+## How to Run
 
 ### Step 1: Download Dependency
 Download `json.jar` from [Maven Repository](https://mvnrepository.com/artifact/org.json/json)  
